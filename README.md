@@ -2,6 +2,8 @@
 
 A no frills collection of all the icons from https://aws.amazon.com/architecture/icons/ as a collection of stencils for use with OmniGraffle.
 
+![Stencils Screenshot](http://i.imgur.com/bibSLbo.png)
+
 ## Installation
 
 Download a release of (or clone) this repo and copy the AWS directory to your stencils directory.
